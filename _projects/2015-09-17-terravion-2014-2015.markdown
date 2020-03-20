@@ -1,0 +1,28 @@
+---
+layout: page
+title: TerrAvion (2014-2015)
+image: /assets/terravion-e1442534624797.jpg
+summary: Flying image collection systems for agricultural aerial imagery.
+---
+
+As Lead Hardware Engineer at [TerrAvion](http://www.terravion.com), I was
+responsible for developing, designing, and integrating all aspects of our
+flying image collection systems.
+
+The collection systems consisted of a set of sensors (high resolution cameras
+in several bands, position/orientation sensors, and a few others) connected to
+a control and data collection server in the airplane.  I therefore was able to
+get my hands dirty with just about every engineering discipline covered:
+
+  * Embedded Linux software - I maintained and improved the code base that controlled the various sensors (C/C++, Bash, Python)
+  * Mechanical design and fabrication - I designed and built a collection system based on alternative components in order to reduce our risk by providing a diversity of suppliers (SolidWorks, vendor sourcing, manual machining, and assembly)
+  * Power and data delivery - I maintained and improved the cabling and circuits used to power, control, synchronize, and receive data from the collection system (soldering, cable harnesses, and strain relief)
+  * User interface design and implementation - I developed and implemented a web server and front-end interface to allow operation of the collection system by contractors with minimal training (Python, HTML, CSS)
+  * Data and database management - I managed the collection and storage of data (up to 1 TB per flight) from the cameras until it was uploaded to our corporate cloud for processing (SQLite, PostgreSQL)
+
+In all these areas, I focused on improving the performance, modularity,
+usability, and reliability of the hardware to increase uptime for operations.
+TerrAvion's product requires consistent, high quality imagery and other sensor
+data that must be collected in a difficult environment.  Balancing between
+technical development, regulatory constraints, operational considerations, and
+cost tradeoffs provided an exciting challenge every day.

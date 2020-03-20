@@ -1,0 +1,51 @@
+---
+layout: page
+title: Stanford AA241X (2006)
+image: /assets/frankenplane.jpg
+summary: In this Aero/Astro course our team designed, built, and flew small electric airplanes.
+---
+
+In the 2006 edition of [AA241X](http://adg.stanford.edu/~aa241/) (or maybe the
+current version is [here](http://adl.stanford.edu/groups/aa241x/)), teams were
+tasked with designing and building a small electric airplane that could gain
+as much altitude as possible before landing at a prescribed point.  The
+challenges were many, including:
+
+  * The propulsion system (battery, motors, and propellers) was given and (purposely) poorly matched to limit performance to something reasonable.
+  * The avionics were also given and included only one sensor - GPS position and velocity updated at 1 Hz.
+  * The course took place during a standard 10-week quarter.
+
+Within these constraints, our team managed to excel and win the competition by
+building, testing, and crashing early and often.  Our winning design (final
+report [here](http://adg.stanford.edu/~aa241/handouts/reports
+/AA241XFinalReport-TeamMetric.pdf)) was lightweight and used a simple, robust
+control algorithm.  During our best flight attempt, we climbed to nearly 250
+meters and landed within the landing zone.
+
+During the quarter, we built three airplanes, shown below.  The first, dubbed
+"FrankenPlane", was built as a test bed to verify control characteristics and
+try our algorithms.  Based on its performance, we adjusted the wing
+polyhedral, tail sizing, and control surface sizing for best performance.  The
+simple construction (foam wing, balsa fuselage) allowed us to build it quickly
+for lots of early testing and also allowed for easy repairs.
+
+![FrankenPlane]({{ site.baseurl }}/assets/frankenplane.jpg)
+
+The second model, "GoBigOrGoHome", turned out to live up to its name.  We
+attempted to build a carbon D-tube leading edge, but the design was overkill
+and the end product was much too heavy to climb well.
+
+![GoBigOrGoHome]({{ site.baseurl }}/assets/gbogh.jpg)
+
+Our competition plane, "KateMoss", took lessons learned from the first two
+versions and represented an all-out effort to reduce the airframe weight.
+
+![KateMoss]({{ site.baseurl }}/assets/katemoss.jpg)
+
+Several aspects of our final design were used in later iterations of the
+class.  We built a radio-control/auto-pilot switch to facilitate testing that
+was incorporated into all new versions of the avionics board used for the
+class.  Our control algorithm, which used bang-bang control to try to fly a
+racetrack pattern over the landing point at all times, worked quite well
+despite the slow update rate of the GPS sensor, and following students
+borrowed ideas from the design in their implementations.

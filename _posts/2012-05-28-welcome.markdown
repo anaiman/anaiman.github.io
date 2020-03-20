@@ -1,0 +1,21 @@
+---
+categories:
+- Afghanistan
+date: 2012-05-28
+layout: post
+title: Welcome!
+type: post
+---
+
+Welcome, new readers!
+
+Since I just invited a whole bunch of you to read this blog (as you can see, I
+started it a while back, but hadn't actually let anyone see it yet), I thought
+I'd say hi.  I'm really super busy right now, so I probably won't respond to
+too many emails, but take a look at the [About
+](/pages/about/ "About")and [FAQ
+](/pages/afghanistan-faqs/ "FAQs")pages and many of the
+questions you have will be answered . . .
+
+I hope you find this blog entertaining/informative or at least useful as a way
+of knowing that I'm doing well overseas. Enjoy!

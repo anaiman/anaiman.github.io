@@ -1,3 +1,7 @@
 _site
 .sass-cache
 .jekyll-metadata
+.vscode
+.ipynb_checkpoints
+Gemfile.lock
+*.ipynb

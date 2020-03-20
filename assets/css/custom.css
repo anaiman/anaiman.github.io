@@ -1,0 +1,29 @@
+.custom-footer-col-1 {
+ width: -webkit-calc(25% - (30px / 2));
+ width:         calc(25% - (30px / 2));
+}
+
+.custom-footer-col-2 {
+ width: -webkit-calc(30% - (30px / 2));
+ width:         calc(30% - (30px / 2));
+}
+
+.custom-footer-col-3 {
+ width: -webkit-calc(45% - (30px / 2));
+ width:         calc(45% - (30px / 2));
+}
+
+.custom-svg-icon {
+    width: 21px;
+    height: 16px;
+    display: inline-block;
+    fill: #828282;
+    padding-right: 5px;
+    vertical-align: text-top;
+}
+
+div.project_card_image {
+    height: 204px;
+    line-height: 204px;
+    text-align: center;
+}
