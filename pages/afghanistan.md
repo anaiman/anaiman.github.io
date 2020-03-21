@@ -5,7 +5,7 @@ title: Afghanistan Blog
 
 During 2012, I spent the better part of six months working as a contractor for the US Army in Afghanistan. I wrote a lot about my work, living conditions, and my other experiences and adventures while I was there to help stay connected with friends and family back home. Here you can find an archive of the blog posts that I wrote during that time.
 
-I also compiled an [FAQ](/pages/afghanistan-faqs/) page and a collection of [Acronyms of the Day (AOTD)](/pages/afghanistan-aotd/).
+I also compiled an [FAQ](/pages/afghanistan-faqs) page and a collection of [Acronyms of the Day (AOTD)](/pages/afghanistan-aotd).
 
 <ul class="posts">
 
