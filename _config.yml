@@ -44,6 +44,8 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  afghanistan:
+    output: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

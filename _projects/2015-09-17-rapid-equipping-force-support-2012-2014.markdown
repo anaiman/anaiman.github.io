@@ -12,7 +12,7 @@ six months in Afghanistan as an Expeditionary Engineer providing engineering
 expertise, rapid design, and rapid prototyping to solve battlefield problems.
 Projects included covert/overt surveillance systems, electrical power systems,
 and vehicle systems that allowed soldiers to operate more safely and
-effectively.
+effectively. I wrote extensively about my experiences, that blog is archived [here](/pages/afghanistan).
 
 Examples of some of the other projects I supported can be found on the [REF
 information page](http://www.ref.army.mil/exlab-solutions.html).

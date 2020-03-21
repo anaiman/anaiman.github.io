@@ -12,7 +12,7 @@ title: 'What I''ve Been Reading Lately: The Making of the Atomic Bomb'
 type: post
 ---
 
-One of my friends referred me to [_The Making of the Atomic Bomb_ , by Richard
+One of my friends referred me to [_The Making of the Atomic Bomb_, by Richard
 Rhodes](http://www.amazon.com/The-Making-Atomic-Bomb-
 Anniversary/dp/1451677618), last year.  I haven’t been doing much writing over
 the past year or so, but I have been doing lots of reading.  It's been a while
